@@ -189,20 +189,4 @@ def servers(request):
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     return HttpResponse('.........')
